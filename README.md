@@ -2,7 +2,7 @@
 
 > Computer Engineering graduate • QA Tester • Backend & Web Automation
 
-[![Website](https://img.shields.io/badge/website-lester-jl.vercel.app-blue?logo=vercel)](https://lester-jl.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jhnlstrlclcn/) [![Email](https://img.shields.io/badge/Email-lesterliclican22%40gmail.com-cyan)](mailto:lesterliclican22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jhnlstrlclcn/) [![Email](https://img.shields.io/badge/Email-lesterliclican22%40gmail.com-cyan)](mailto:lesterliclican22@gmail.com)
 
 ---
 
