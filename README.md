@@ -87,7 +87,7 @@ Computer Engineering graduate with hands-on experience in QA testing and web dev
 
 ---
 
-### [**Inventory Management System**](https://your-inventory-demo.com) - *Live Demo*
+### [**Inventory Management System**](https://jhnlstrlclcn22-inventory.infinityfree.me/login.php?i=2) - *Live Demo*
 > Full-featured inventory system with real-time stock tracking and analytics.
 
 **Features:**
@@ -101,7 +101,7 @@ Computer Engineering graduate with hands-on experience in QA testing and web dev
 
 ---
 
-### [**Real-Time Chat Application**](https://your-chat-demo.com) - *Live Demo*
+### [**Real-Time Chat Application**](https://chat-free-world.vercel.app/chat) - *Live Demo*
 > A full-stack messaging platform with advanced real-time features.
 
 **Features:**
