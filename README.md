@@ -1,144 +1,155 @@
-👨‍💻 John Lester Liclican
-Computer Engineer | Backend Developer | QA Tester
+# 👨‍💻 John Lester Liclican
 
-https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+**Computer Engineer | Backend Developer | QA Tester**
 
-📍 San Miguel, Bulacan | 📱 0977-613-6239
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webp0rtfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestorrr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhnlstrlclcn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-🚀 About Me
+📍 San Miguel, Bulacan | 📞 0977-613-6239
+
+---
+
+## 🚀 About Me
+
 Computer Engineering graduate with hands-on experience in QA testing and web development. Completed internship at Amkor Technology Philippines performing manual and automated testing. Passionate about building and deploying full-stack web applications with modern technologies.
 
-🛠️ Technical Skills
-Frontend Development
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+---
 
-Backend Development
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white
-https://img.shields.io/badge/C%2523-239120?style=flat-square&logo=csharp&logoColor=white
-https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white
+## 🛠️ Technical Skills
 
-Database & Testing Tools
-https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Mobile Development
-https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white
-https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
-https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Core Competencies
-https://img.shields.io/badge/Problem_Solving-FF6F00?style=flat-square&logo=lightbulb&logoColor=white
-https://img.shields.io/badge/IT_Support-0078D4?style=flat-square&logo=windows&logoColor=white
-https://img.shields.io/badge/QA_Testing-6DB33F?style=flat-square&logo=checkmarx&logoColor=white
-https://img.shields.io/badge/Technical_Support-0A0A0A?style=flat-square&logo=headphones&logoColor=white
+### Database & Testing Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-💼 Experience
-QA Tester Intern (OJT)
-Amkor Technology Philippines, Inc. | *October 2023 - January 2024*
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
-Performed manual testing on web applications
+### Core Competencies
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6F00?style=flat-square&logo=lightbulb&logoColor=white)
+![IT Support](https://img.shields.io/badge/IT_Support-0078D4?style=flat-square&logo=windows&logoColor=white)
+![QA Testing](https://img.shields.io/badge/QA_Testing-6DB33F?style=flat-square&logo=checkmarx&logoColor=white)
+![Technical Support](https://img.shields.io/badge/Technical_Support-0A0A0A?style=flat-square&logo=headphones&logoColor=white)
 
-Created basic test scenarios and documented bugs
+---
 
-Assisted in test automation using Selenium and Pytest
+## 💼 Experience
 
-Collaborated with the team to improve software quality
+### QA Tester Intern (OJT)
+**Amkor Technology Philippines, Inc.** | *October 2023 - January 2024*
 
-📱 Personal Web Projects
-CMS API - Live Demo
-A production-ready headless CMS REST API built with Node.js, Express, and MongoDB — deployed live on Railway.
+- Performed manual testing on web applications
+- Created basic test scenarios and documented bugs
+- Assisted in test automation using **Selenium** and **Pytest**
+- Worked with the team to improve software quality
 
-Features:
+---
 
-🔐 JWT Authentication — Secure register/login with HttpOnly cookies and role-based access control
+## 📱 Personal Web Projects
 
-📝 Full CRUD Operations — Complete project management with slug generation and filtering
+### [**CMS API**](https://node-express-rest-api-production.up.railway.app/api/projects) - *Live Demo*
+> A production-ready headless CMS REST API built with **Node.js, Express, and MongoDB** — deployed live on Railway.
 
-📧 Contact Form — Rate-limited public endpoint with email notifications via Nodemailer
+**Features:**
+- 🔐 **JWT Authentication** — Secure register/login with HttpOnly cookies and role-based access control
+- 📝 **Full CRUD Operations** — Complete project management with slug generation and filtering
+- 📧 **Contact Form** — Rate-limited public endpoint with email notifications via Nodemailer
+- 🖼️ **Image Uploads** — Cloudinary integration with auto-resize and compression
+- 📊 **Analytics Tracking** — Visitor analytics and project view tracking
+- 🛡️ **Security** — Helmet, CORS, rate limiting, XSS protection, and NoSQL injection prevention
 
-🖼️ Image Uploads — Cloudinary integration with auto-resize and compression
+**Tech Stack:** `Node.js` `Express` `MongoDB Atlas` `Mongoose` `JWT` `Cloudinary` `Nodemailer` `Railway`
 
-📊 Analytics Tracking — Visitor analytics and project view tracking
+---
 
-🛡️ Security — Helmet, CORS, rate limiting, XSS protection, and NoSQL injection prevention
+### [**Inventory Management System**](https://your-inventory-demo.com) - *Live Demo*
+> Full-featured inventory system with real-time stock tracking and analytics.
 
-Tech Stack: Node.js Express MongoDB Atlas Mongoose JWT Cloudinary Nodemailer Railway
+**Features:**
+- 📦 Real-time stock tracking
+- 🔄 Automated reorder points
+- 📱 Barcode scanning integration
+- 📊 Supplier management
+- 📈 Detailed analytics dashboard
 
-Inventory Management System - Live Demo
-Full-featured inventory system with real-time stock tracking and analytics.
+**Tech Stack:** `React` `Node.js` `MongoDB` `Chart.js`
 
-Features:
+---
 
-📦 Real-time stock tracking
+### [**Real-Time Chat Application**](https://your-chat-demo.com) - *Live Demo*
+> A full-stack messaging platform with advanced real-time features.
 
-🔄 Automated reorder points
+**Features:**
+- 💬 Live messaging with typing indicators
+- 👁️ Read receipts and online status
+- 😊 Emoji reactions and file sharing
+- 🔒 End-to-end encryption
+- 🖼️ Image sharing via Cloudinary
 
-📱 Barcode scanning integration
+**Tech Stack:** `Next.js 14` `MongoDB` `Ably` `Socket.IO` `Cloudinary` `NextAuth.js`
 
-📊 Supplier management
+---
 
-📈 Detailed analytics dashboard
+## 🎓 Education
 
-Tech Stack: React Node.js MongoDB Chart.js Barcode Scanner API
+### Bachelor of Science in Computer Engineering
+**AMA Computer College** | *S.Y. 2020-2024*
 
-Real-Time Chat Application - Live Demo
-A full-stack messaging platform with advanced real-time features.
+**Capstone Project:** RFID Payment Integration and Android-Based Monitoring System for Public Utility Vehicles
 
-Features:
+---
 
-💬 Live messaging with typing indicators
+## 📜 Certificates
 
-👁️ Read receipts and online status
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| **Meta Backend Developer** | Coursera | 2025 |
+| **Google Cybersecurity** | Coursera | 2024 |
+| **Ethical Hacking** | Cisco | 2024 |
+| **Network Security** | Cisco | 2023 |
 
-😊 Emoji reactions and file sharing
+---
 
-🔒 End-to-end encryption
+## 📊 GitHub Stats
 
-🖼️ Image sharing via Cloudinary
+![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestorrr&show_icons=true&theme=radical)
 
-Tech Stack: Next.js 14 MongoDB Ably Socket.IO Cloudinary NextAuth.js
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lestorrr&layout=compact&theme=radical)
 
-🎓 Education
-Bachelor of Science in Computer Engineering
-AMA Computer College | *S.Y. 2020-2024*
+---
 
-Capstone Project: RFID Payment Integration and Android-Based Monitoring System for Public Utility Vehicles
+## 🤝 Let's Connect!
 
-📜 Certificates
-Certificate	Issuer	Year	Credential
-Meta Backend Developer	Coursera	2025	Credential
-Google Cybersecurity	Coursera	2024	Credential
-Ethical Hacking	Cisco	2024	Credential
-Network Security	Cisco	2023	Credential
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=lestorrr&show_icons=true&theme=radical
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhnlstrlclcn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestorrr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webp0rtfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=lestorrr&layout=compact&theme=radical
+---
 
-🤝 Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to reach out!
-
-https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin
-https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github
-https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome
-https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail
-
-⭐️ From lestorrr
+⭐️ From [lestorrr](https://github.com/lestorrr)
