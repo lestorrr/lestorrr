@@ -72,7 +72,7 @@ Computer Engineering graduate with hands-on experience in QA testing and web dev
 
 ## 📱 Personal Web Projects
 
-### [**CMS API**](https://node-express-rest-api-production.up.railway.app/api/projects) - *Live Demo*
+### [**CMS API**](https://node-express-rest-api-production.up.railway.app) - *Live Demo*
 > A production-ready headless CMS REST API built with **Node.js, Express, and MongoDB** — deployed live on Railway.
 
 **Features:**
