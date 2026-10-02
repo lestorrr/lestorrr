@@ -49,24 +49,13 @@ Backend for portfolio sites: JWT auth with HttpOnly cookies and role-based acces
 Web inventory system with stock tracking, low-stock alerts, barcode support, supplier management and an analytics dashboard.
 <br>`PHP` `MySQL` `JavaScript` `HTML/CSS`
 
-### [GlobalMarket](https://github.com/lestorrr/global-bazaar) · [*Live demo*](https://global-bazaar.vercel.app)
+### [GlobalMarket](https://global-bazaar.vercel.app) · *Live demo*
 Online marketplace front end.
 <br>`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Supabase`
 
 ### Connect360: Family Locator · *In development*
 Life360-style family location sharing: private circles with invite codes, background GPS, OpenStreetMap maps, saved places and geofence alerts.
 <br>`Flutter` `Firebase` `Cloud Firestore` `FCM` `OpenStreetMap`
-
-<details>
-<summary><b>More projects</b></summary>
-<br>
-
-- [**inventory-management-c-**](https://github.com/lestorrr/inventory-management-c-): console inventory system in C++20 with CSV import/export, search, sorting and low-stock reports
-- [**game_buld**](https://github.com/lestorrr/game_buld): Bookworm Adventures-style word battle game in Flutter
-- [**WEB-DRIVER-LMS-2.0-**](https://github.com/lestorrr/WEB-DRIVER-LMS-2.0-): Selenium WebDriver (Python) test scripts for an LMS: login, courses, schedules
-- [**LIttleLemonWeb**](https://github.com/lestorrr/LIttleLemonWeb): Meta Back-End Developer capstone, a Django restaurant site and API
-
-</details>
 
 ---
 
