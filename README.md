@@ -1,185 +1,154 @@
-# 👨‍💻 John Lester Liclican
+# Hi, I'm John Lester Liclican 👋
 
-**Computer Engineer | Backend Developer | QA Tester**
+**Computer Engineer · Full-Stack & Mobile Developer · QA Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jhnlstrlclcn.engineer/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestorrr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhnlstrlclcn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jhnlstrlclcn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterliclican22@gmail.com)
 
-📍 San Miguel, Bulacan | 📞 0977-613-6239
+📍 Bulacan, Philippines · 🌏 Open to remote work
 
 ---
 
 ## 🚀 About Me
 
-Computer Engineering graduate with hands-on experience in QA testing and web development. Completed internship at Amkor Technology Philippines performing manual and automated testing. Passionate about building and deploying full-stack web applications with modern technologies.
+- 🎓 Computer Engineering graduate, AMA Computer College (2024)
+- 🌐 I build full-stack web apps with **Next.js, Node.js/Express and MongoDB**, and mobile apps with **Flutter**
+- 🧪 QA background: manual and automated testing with **Selenium and Pytest** at Amkor Technology Philippines
+- 🐧 Daily Linux user. I write open-source desktop tools for AMD laptops (see below)
+- 🎬 Also an AI video editor for eCommerce brands: [johnvideoeditor.me](https://johnvideoeditor.me)
 
 ---
 
-## 🛠️ Technical Skills
+## 🐧 Open-Source Linux Tools
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**fan-controller-for-linux**](https://github.com/lestorrr/fan-controller-for-linux) | Fan curve, temperature and TDP control for the ThinkPad T495 (Ryzen): a root daemon plus a GTK/WebKit dashboard | `Python` `GTK` `ryzenadj` |
+| [**gpu-game-booster**](https://github.com/lestorrr/gpu-game-booster) | Pauses or throttles background apps and tunes the Radeon GPU while you play, then puts everything back | `Python` `GTK` `amdgpu` |
+| [**claude-terminal**](https://github.com/lestorrr/claude-terminal) | ChatGPT-style desktop window for Claude Code: every chat in a sidebar, shown as bubbles, resumed in one click | `Python` `GTK` `VTE` |
+| [**radeon-color-adjuster**](https://github.com/lestorrr/radeon-color-adjuster) | Adrenalin-style display tuning for X11: colour temperature, brightness, contrast, saturation, vibrance and RGB gamma per monitor | `Python` `PyQt5` `xrandr` |
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-### Database & Testing Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 📱 Featured Projects
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+### [Real-Time Chat App](https://chat-free-world.vercel.app/chat) · *Live demo*
+Full-stack messaging app with typing indicators, read receipts, online status, emoji reactions, image/file sharing and optional end-to-end encryption (TweetNaCl).
+<br>`Next.js` `TypeScript` `Socket.IO` `MongoDB` `NextAuth.js` `Cloudinary`
 
-### Core Competencies
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=lightbulb&logoColor=white)
-![IT Support](https://img.shields.io/badge/IT_Support-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![QA Testing](https://img.shields.io/badge/QA_Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Technical Support](https://img.shields.io/badge/Technical_Support-0A0A0A?style=for-the-badge&logo=headphones&logoColor=white)
+### [Flower8: Couples App](https://github.com/lestorrr/flower8-releases) · *Android release*
+Private app for couples: real-time chat, live location with distance, a virtual pet you raise together, couple games, a shared photo gallery and push notifications.
+<br>`Flutter` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT` `Cloudinary` `Firebase FCM`
+
+### Headless CMS REST API
+Backend for portfolio sites: JWT auth with HttpOnly cookies and role-based access, full CRUD with slugs and filtering, a rate-limited contact form with email alerts, Cloudinary image uploads, visitor analytics, and hardening with Helmet, CORS, XSS and NoSQL-injection protection.
+<br>`Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Nodemailer`
+
+### [Inventory Management System](https://jhnlstrlclcn22-inventory.infinityfree.me/login.php?i=2) · *Live demo*
+Web inventory system with stock tracking, low-stock alerts, barcode support, supplier management and an analytics dashboard.
+<br>`PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+### [GlobalMarket](https://github.com/lestorrr/global-bazaar) · [*Live demo*](https://global-bazaar.vercel.app)
+Online marketplace front end.
+<br>`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Supabase`
+
+### Connect360: Family Locator · *In development*
+Life360-style family location sharing: private circles with invite codes, background GPS, OpenStreetMap maps, saved places and geofence alerts.
+<br>`Flutter` `Firebase` `Cloud Firestore` `FCM` `OpenStreetMap`
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+- [**inventory-management-c-**](https://github.com/lestorrr/inventory-management-c-): console inventory system in C++20 with CSV import/export, search, sorting and low-stock reports
+- [**game_buld**](https://github.com/lestorrr/game_buld): Bookworm Adventures-style word battle game in Flutter
+- [**WEB-DRIVER-LMS-2.0-**](https://github.com/lestorrr/WEB-DRIVER-LMS-2.0-): Selenium WebDriver (Python) test scripts for an LMS: login, courses, schedules
+- [**LIttleLemonWeb**](https://github.com/lestorrr/LIttleLemonWeb): Meta Back-End Developer capstone, a Django restaurant site and API
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+**Frontend & Mobile**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white)
+
+**Backend & Data**<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Testing & Tools**<br>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### QA Tester Intern (OJT)
-**Amkor Technology Philippines, Inc.** | *October 2023 - January 2024*
-
+**QA Tester Intern (OJT)** · Amkor Technology Philippines, Inc. · *Oct 2023 – Jan 2024*
 - Performed manual testing on web applications
-- Created basic test scenarios and documented bugs
-- Assisted in test automation using **Selenium** and **Pytest**
-- Worked with the team to improve software quality
-
----
-
-## 📱 Personal Web Projects
-
-### [**CMS API**](https://node-express-rest-api-production.up.railway.app) - *Live Demo*
-> A production-ready headless CMS REST API built with **Node.js, Express, and MongoDB** — deployed live on Railway.
-
-**Features:**
-- 🔐 **JWT Authentication** — Secure register/login with HttpOnly cookies and role-based access control
-- 📝 **Full CRUD Operations** — Complete project management with slug generation and filtering
-- 📧 **Contact Form** — Rate-limited public endpoint with email notifications via Nodemailer
-- 🖼️ **Image Uploads** — Cloudinary integration with auto-resize and compression
-- 📊 **Analytics Tracking** — Visitor analytics and project view tracking
-- 🛡️ **Security** — Helmet, CORS, rate limiting, XSS protection, and NoSQL injection prevention
-
-**Tech Stack:** `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Nodemailer` `Railway`
-
----
-
-### [**Inventory Management System**](https://jhnlstrlclcn22-inventory.infinityfree.me/login.php?i=2) - *Live Demo*
-> Full-featured inventory system with real-time stock tracking and analytics.
-
-**Features:**
-- 📦 Real-time stock tracking
-- 🔄 Automated reorder points
-- 📱 Barcode scanning integration
-- 📊 Supplier management
-- 📈 Detailed analytics dashboard
-
-**Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
-
----
-
-### [**Real-Time Chat Application**](https://chat-free-world.vercel.app/chat) - *Live Demo*
-> A full-stack messaging platform with advanced real-time features.
-
-**Features:**
-- 💬 Live messaging with typing indicators
-- 👁️ Read receipts and online status
-- 😊 Emoji reactions and file sharing
-- 🔒 End-to-end encryption
-- 🖼️ Image sharing via Cloudinary
-
-**Tech Stack:** `Next.js` `MongoDB` `Socket.IO` `Cloudinary` `NextAuth.js`
-
----
-
-### [**Flower8 - Couples Mobile App**](https://flower8-backend-production.up.railway.app) - *Live Demo*
-> A comprehensive couples mobile application with real-time features and partner activity tracking.
-
-**Features:**
-- 💕 **Real-time Messaging** — Instant messages with romantic effects
-- 📍 **Live Location Sharing** — Real-time partner location with distance tracking
-- 🐾 **Shared Virtual Pet** — Interactive pet that both partners care for
-- 🎮 **Couple Games** — Interactive games with real-time answers
-- 📸 **Private Gallery** — Shared photo storage with Cloudinary
-- 📱 **Partner Activity Dashboard** — See partner's app usage and notifications
-- 🔔 **Cross-Device Notifications** — Sync notifications from WhatsApp, Messenger, Instagram
-
-**Tech Stack:** `Flutter` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Cloudinary` `Firebase FCM`
-
----
-
-### [**Connect360 - Family Locator**](https://connect360-backend.up.railway.app) - *In Development*
-> A Life360-style family location sharing app built with Flutter and Firebase.
-
-**Features:**
-- 👨‍👩‍👧 **Family Circles** — Create private groups with invite codes
-- 📍 **Real-time Location** — Background GPS tracking
-- 🗺️ **Interactive Maps** — OpenStreetMap integration
-- 🏠 **Saved Places** — Add custom locations with geofencing
-- 🔔 **Geofence Alerts** — Notifications when family members arrive/leave
-
-**Tech Stack:** `Flutter` `Firebase` `Cloud Firestore` `FCM` `OpenStreetMap`
+- Wrote test scenarios and documented bugs
+- Helped automate tests with **Selenium** and **Pytest**
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Science in Computer Engineering
-**AMA Computer College** | *S.Y. 2020-2024*
-
-**Capstone Project:** RFID Payment Integration and Android-Based Monitoring System for Public Utility Vehicles
+**BS Computer Engineering** · AMA Computer College · *2020 – 2024*<br>
+Capstone: *RFID Payment Integration and Android-Based Monitoring System for Public Utility Vehicles*
 
 ---
 
 ## 📜 Certificates
 
 | Certificate | Issuer | Year |
-|-------------|--------|------|
-| **Meta Backend Developer** | Coursera | 2025 |
-| **Google Cybersecurity** | Coursera | 2024 |
-| **Ethical Hacking** | Cisco | 2024 |
-| **Network Security** | Cisco | 2023 |
+|---|---|---|
+| Meta Back-End Developer | Coursera | 2025 |
+| Google Cybersecurity | Coursera | 2024 |
+| Ethical Hacking | Cisco | 2024 |
+| Network Security | Cisco | 2023 |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestorrr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lestorrr&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhnlstrlclcn)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestorrr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jhnlstrlclcn.engineer/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterliclican22@gmail.com)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lestorrr&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestorrr&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
-⭐️ From [lestorrr](https://github.com/lestorrr)
+## 🤝 Let's Connect
+
+Open to remote roles in **full-stack development, QA and test automation**.
+Reach me at **[lesterliclican22@gmail.com](mailto:lesterliclican22@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/jhnlstrlclcn/).
